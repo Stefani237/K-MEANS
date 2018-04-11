@@ -1,0 +1,7 @@
+Number of best measure clusters 
+K = 4  qm = 0.149533
+Centers of the clusters: 
+x = -0.495864, y = -0.503927
+x = -0.499480, y = 99.503460
+x = 99.509850, y = 99.507322
+x = 99.503364, y = -0.493298
